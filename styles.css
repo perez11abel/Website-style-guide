@@ -1,0 +1,123 @@
+body {
+  margin: 0 auto;
+  font-family: "Nunito Sans", sans-serif;
+  padding: 10px;
+  margin: 10px 50px;
+  background: linear-gradient(0.108deg, #fff19e, #21b4ff);
+}
+/* Title */
+h1 {
+  font-weight: 700;
+}
+/* Colors */
+.colors {
+  border: 2px solid gray;
+  margin: 5px auto;
+}
+
+.color-set {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cbox {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  margin: 10px 3px;
+}
+
+.blue {
+  background-color: #2d5dcc;
+  color: white;
+}
+
+.pink {
+  background-color: #d957d9;
+}
+
+.green {
+  background-color: #4fe0b0;
+}
+
+.beige {
+  background-color: #efd9ca;
+}
+
+.maroon {
+  background-color: #800000;
+  color: white;
+}
+
+.sky-blue {
+  background-color: #87ceeb;
+}
+
+/* Fonts */
+
+.fonts {
+  border: 2px solid gray;
+  margin: 5px auto;
+}
+
+.fbox {
+  display: inline-block;
+  vertical-align: top;
+  width: 40%;
+  margin: 10px 3px;
+  margin-left: 15px;
+}
+
+.font-title {
+  text-decoration: underline;
+  font-size: larger;
+  font-weight: 600;
+}
+
+.font-1 {
+  font-family: "Source Code Pro", monospace;
+}
+
+.font-2 {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.font-3 {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Text Stlyes */
+
+.tbox {
+  margin-left: 20px;
+}
+
+.text-styles {
+  border: 2px solid gray;
+  margin: 5px auto;
+}
+
+.text-title1 {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: "Nunito Sans";
+}
+
+.text-title2 {
+  font-weight: 600;
+  font-size: 18px;
+  font-family: "Poppins";
+}
+
+.text-title3 {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Poppins";
+}
+
+/* Shared CSS */
+
+h2 {
+  margin-left: 20px;
+}
